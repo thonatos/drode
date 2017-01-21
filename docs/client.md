@@ -1,6 +1,6 @@
 # Client
 
-## Table of Contents
+### Table of Contents
 
 * client
   * register

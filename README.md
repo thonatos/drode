@@ -22,11 +22,35 @@ A Node.js CI Application inspired by Drone.
 
 ## Server
 
-coming soon.
+### Table of Contents
+
+* client
+  * id
+  * region
+* repo
+  * url
+  * auth
+  * build
+    * region
+* image
+  * repo
+  * auth
+
+> be continued
 
 ## Client
 
-coming soon.
+### Table of Contents
+
+* client
+  * register
+* git
+  * clone
+* docker
+  * build
+  * push
+
+> be continued
 
 ## Reference
 

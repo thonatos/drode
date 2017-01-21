@@ -1,6 +1,6 @@
 # Server
 
-## Table of Contents
+### Table of Contents
 
 * client
   * id
