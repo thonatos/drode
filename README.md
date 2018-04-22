@@ -12,6 +12,7 @@ A Node.js CI Application inspired by Drone.
   * dockerode
   * 
 * Redis
+* mongoDB
 * Node.js
   * socket.io
   * socket.io-stream
